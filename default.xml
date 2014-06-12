@@ -394,5 +394,5 @@
 
 <project path="hardware/qcom/media-legacy" name="androidarmv6/android_hardware_qcom_media_legacy"  />
 <project path="hardware/qcom/display-legacy" name="androidarmv6/android_hardware_qcom_display-legacy"  />
-
+<project path="device/htc/common" name="ProtoDroidDevs/android_device_htc_common" revision="cm-10.2"/>
 </manifest>
