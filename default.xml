@@ -385,7 +385,7 @@
  <project path="hardware/qcom/audio" name="ProtoDroidDevs/android_hardware_qcom_audio" revision="master"/>
   <project path="hardware/qcom/audio-caf" name="ProtoDroidDevs/android_hardware_qcom_audio-caf" revision="master"/>
   <project path="hardware/qcom/bt" name="ProtoDroidDevs/android_hardware_qcom_bt" revision="master" />
-  <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" revision="master"/>
+  <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" />
   <project path="hardware/qcom/display" name="ProtoDroidDevs/android_hardware_qcom_display" revision="master"/>
   <project path="hardware/qcom/display-caf" name="ProtoDroidDevs/android_hardware_qcom_display-caf" revision="master"/>
   <project path="hardware/qcom/gps" name="ProtoDroidDevs/android_hardware_qcom_gps" revision="master"/>
