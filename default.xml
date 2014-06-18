@@ -390,7 +390,7 @@
   <project path="hardware/qcom/display-caf" name="ProtoDroidDevs/android_hardware_qcom_display-caf" revision="master"/>
   <project path="hardware/qcom/gps" name="ProtoDroidDevs/android_hardware_qcom_gps" revision="master"/>
   <project path="hardware/qcom/keymaster" name="ProtoDroidDevs/android_hardware_qcom_keymaster" revision="master"/>
-  <project path="hardware/qcom/media" name="ProtoDroidDevs/android_hardware_qcom_media" revision="master"/>
+  <project path="hardware/qcom/media-legacy" name="ProtoDroidDevs/android_hardware_qcom_media-legacy" revision="master"/>
   <project path="hardware/qcom/media-caf" name="ProtoDroidDevs/android_hardware_qcom_media-caf" revision="master"/>
   <project path="hardware/qcom/msm8960" name="ProtoDroidDevs/android_hardware_qcom_msm8960" revision="master"/>
   <project path="hardware/qcom/power" name="ProtoDroidDevs/android_hardware_qcom_power" revision="master"/>
