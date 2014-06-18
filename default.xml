@@ -254,7 +254,6 @@
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
-  <project path="hardware/qcom" name="ProtoDroidDevs/android_hardware_qcom" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/samsung_slsi/exynos5" name="CyanogenMod/android_hardware_samsung_slsi_exynos5" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
@@ -378,6 +377,7 @@
 <project path="device/htc/protou" name="ProtoDroidDevs/android_device_htc_protou" />
 <project path="vendor/htc/protou" name="ProtoDroidDevs/android_vendor_htc_protou" revision="jb"/>
 <project path="kernel/htc/protou" name="ProtoDroidDevs/android_kernel_htc_protou" />
+<project path="hardware/qcom" name="ProtoDroidDevs/android_hardware_qcom" />
 
 <project path="hardware/qcom/media-legacy" name="legaCyMod/android_hardware_qcom_media-legacy"  />
 <project path="hardware/qcom/display-legacy" name="legaCyMod/android_hardware_qcom_display-legacy"  />
