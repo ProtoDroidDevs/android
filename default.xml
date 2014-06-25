@@ -372,7 +372,7 @@
 
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="CyanogenMod/android_system_core" />
+
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
@@ -389,10 +389,11 @@
 
 <project path="hardware/qcom/display-legacy" name="androidarmv6/android_hardware_qcom_display-legacy"  revision="cm-10.1"/>
 <project path="hardware/qcom/media-legacy" name="androidarmv6/android_hardware_qcom_media_legacy"  revision="cm-10.1"/>
+<project path="device/htc/common" name="ProtouProject/android_device_htc_common" revision="cm-10.2"/>
 
 <project path="kernel/htc/protou" name="albru123/android_kernel_htc_protou" revision="cm-10" />
-  <project path="device/htc/protou" name="albru123/android_device_htc_protou" revision="cm-10" />
+  <project path="device/htc/protou" name="prototype-U/cm10.1-protou-ics" revision="master" />
   <project path="vendor/htc/protou" name="albru123/android_vendor_htc_protou" revision="cm-10" />
-
-  <project path="frameworks/av" name="sakindia123/android_frameworks_av_4.2" revision="jellybean" />
+  <project path="system/core" name="prototype-U/android_system_core" />
+  <project path="frameworks/av" name="prototype-U/android_frameworks_av_4.2" revision="jellybean" />
 </manifest>
